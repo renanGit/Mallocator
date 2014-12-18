@@ -1,0 +1,9 @@
+Group Members:
+Name: Maylem Gonzalez 	PID: 2134900
+Name: Renan Santana		PID: 4031451
+
+Program Limitations:
+Assignment assumption: 
+-We assume that the program will only be run on a 32 bit machine. We also assume that the user of the program will initialize and finalize the memory in a safe manner.
+
+For instructions on using the memory allocator, please view the Readme file under the test directory.
